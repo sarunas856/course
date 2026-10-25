@@ -169,7 +169,7 @@ https://github.com/zoltanctoth/dbtlearn-snowflake-importer/blob/main/capstone-re
 ```
 uv sync
 # Activate virtualenv on Windows (PowerShell):
-venv\Scripts\activate
+.venv\Scripts\activate.ps1
 # Activate virtualenv on Mac:
 source venv/bin/activate
 ```
